@@ -1,3 +1,6 @@
+
+Based on and forked from [docker-sensu]: https://github.com/etki/docker-sensu
+
 ### Sensu unofficial Docker images
 
 This repository provides Docker images of [Sensu][sensu] application.

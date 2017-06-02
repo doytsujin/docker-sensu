@@ -1,5 +1,5 @@
 
-Based on and forked from [docker-sensu]: https://github.com/etki/docker-sensu
+Based on and forked from [docker-sensu][https://github.com/etki/docker-sensu]
 
 ### Sensu unofficial Docker images
 
